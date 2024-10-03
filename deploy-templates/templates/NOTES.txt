@@ -1,0 +1,1 @@
+1. Application test-app-db1 has been successfully deployed!!
